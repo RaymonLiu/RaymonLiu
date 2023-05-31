@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-### Hi there 👋, my name is Raymon Liu
-#### Now.I am a learner  about JAVA
-![Now.I am a learner  about JAVA](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Raymon Liu.
+#### Now,I am a learning  about JAVA
+![Now,I am a learning  about JAVA](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
