@@ -38,3 +38,5 @@ Skills: JAVA / SSM / SpringBoot / SpringCloud
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RaymonLiu&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=f00000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
